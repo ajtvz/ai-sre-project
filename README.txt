@@ -1,84 +1,93 @@
-# 🛡️ Log Parser: Containerized System Log Analyzer for SREs
+# 🛡️ AI-Powered Log Parser: Containerized System Log Analyzer for SREs
 
 ## Overview
 
-**Log Parser** is a lightweight, containerized tool that reads and parses system logs from your host machine — specifically `/var/log/syslog` on Ubuntu — and outputs structured JSON for analysis, monitoring, and anomaly detection. It’s built for Site Reliability Engineers (SREs) who need portable, automated visibility into system behavior.
-
----
+AI-Powered Log Parser is a lightweight, containerized tool that reads and parses system logs from your host machine — specifically /var/log/syslog on Ubuntu — and outputs structured JSON for analysis, monitoring, and anomaly detection. It’s built for Site Reliability Engineers (SREs) who need portable, automated visibility into system behavior, and want to explore infrastructure-as-code, cloud deployment, and AI-assisted observability.
 
 ## 🔥 Why This Tool Matters for SREs
 
 As an SRE, your job is to ensure reliability, detect issues early, and automate observability. This tool helps you:
 
-- ✅ **Monitor system activity** in real time (cron jobs, service restarts, kernel events)
-- ✅ **Parse logs into structured JSON** for dashboards, alerts, or ML models
-- ✅ **Run anywhere** — local, CI/CD, cloud — thanks to Docker
-- ✅ **Extend easily** with categorization or ML
-- ✅ **Automate insights** into host behavior without installing agents or heavyweight tools
-
----
+- ✅ Monitor system activity in real time (cron jobs, service restarts, kernel events)
+- ✅ Detect anomalies using machine learning (Isolation Forest)
+- ✅ Parse logs into structured JSON for dashboards, alerts, or ML models
+- ✅ Run anywhere — local, CI/CD, cloud — thanks to Docker
+- ✅ Extend easily with categorization, keyword detection, or AI summarization
+- ✅ Automate insights into host behavior without installing agents or heavyweight tools
 
 ## 🚀 Features
 
-- Reads `/var/log/syslog` from your host machine
-- Parses each line into structured JSON
-- Outputs to `logs/parsed.json`
+- Reads /var/log/syslog from your host machine
+- Parses each line into structured JSON with line number and message
+- Flags anomalies based on line length using Isolation Forest
+- Outputs:
+  - logs/parsed.json
+  - logs/anomalies.json
 - Runs inside a Docker container
-- Mounts host logs via `-v /var/log:/var/log`
-- Easy to extend with categorization or ML
-
----
+- Mounts host logs via -v /var/log:/var/log
+- Easy to extend with keyword detection, timestamps, or service classification
+- Future support for:
+  - AWS EC2 deployment via Terraform
+  - S3 storage for anomaly reports
+  - AI-powered log summaries
+  - Slack/email alerting
 
 ## 🧱 Project Structure
 
-```
 .
 ├── docker/
 │   └── Dockerfile
 ├── src/
 │   └── log_parser.py
 ├── logs/
-│   └── parsed.json (output)
+│   ├── parsed.json
+│   └── anomalies.json
 ├── requirements.txt
 └── README.md
-```
-
----
 
 ## 🛠️ Setup
 
-### 1. Build the Docker Image
+1. Clone the Repository
 
-```bash
+git clone https://github.com/ajtvz/ai-sre-project.git
+cd ai-sre-project
+
+2. Create a Virtual Environment (for portability)
+
+python3 -m venv ai-sre-env
+source ai-sre-env/bin/activate   # On Windows: ai-sre-env\Scripts\activate
+
+3. Install Dependencies
+
+pip install -r requirements.txt
+
+4. Run Locally
+
+python src/log_parser.py
+
+## 🐳 Docker Usage
+
+1. Build the Docker Image
+
 docker build --no-cache -t log-parser -f docker/Dockerfile .
-```
 
-### 2. Run the Parser
+2. Run the Parser
 
-```bash
 docker run --rm -v /var/log:/var/log log-parser
-```
 
-This mounts your host’s `/var/log` directory into the container so it can read `syslog`.
+3. View the Output
 
-### 3. View the Output
-
-```bash
-cat logs/parsed.json
-```
-
----
+cat logs/anomalies.json
 
 ## 🧠 How It Works
 
-Inside `log_parser.py`:
+Inside log_parser.py:
 
-- Checks if `/var/log/syslog` exists
+- Checks if /var/log/syslog exists
 - Reads all lines
 - Parses each line into a JSON object with line number and message
-- Saves to `logs/parsed.json`
-
----
+- Calculates line length and applies Isolation Forest
+- Flags anomalies and saves to logs/anomalies.json
 
 ## 🌍 Portability
 
@@ -92,51 +101,26 @@ This tool runs anywhere Docker runs:
 
 Just mount the appropriate log file and run the container.
 
----
-
-## 🪟 Windows Support (Optional)
-
-Windows logs are stored in `.evtx` format. To use this tool:
-
-1. Export logs via PowerShell:
-
-```powershell
-Get-WinEvent -LogName System | Out-File C:\Logs\system.txt
-```
-
-2. Mount the logs:
-
-```bash
-docker run --rm -v C:/Logs:/logs log-parser /logs/system.txt
-```
-
-3. Update `log_parser.py` to read `/logs/system.txt`
-
----
-
 ## 🧪 Extending the Tool
 
-### 🧠 Add Anomaly Detection
+Add Keyword Detection:
+Flag lines containing words like error, fail, unauthorized, denied, etc.
 
-Use scikit-learn:
+Add Timestamp Analysis:
+Detect bursts, silence, or time gaps between events.
 
-```python
-from sklearn.ensemble import IsolationForest
-```
-
-Train on normal logs, flag outliers, and write suspicious entries to a separate file.
-
----
+Add Service Classification:
+Group anomalies by systemd, kernel, cron, etc.
 
 ## 📦 Future Ideas
 
-- CLI wrapper for log selection
-- Integration with Prometheus/Grafana
+- Terraform module to deploy EC2 + S3
+- Push anomaly reports to S3
 - Slack alerts for anomalies
+- AI summaries using transformers or OpenAI
 - REST API wrapper for remote log ingestion
+- Prometheus/Grafana integration
 
----
+## 📬 About the Author
 
-## 🙌 Author
-
-Built by Aaron a detail-oriented, growth-driven SRE with a passion for making technical tools accessible and reliable
+Built by Aaron — a U.S. Army soldier transitioning into tech with a focus on reliability engineering, automation, and human centered documentation. Passionate about making technical tools accessible, scalable, and production ready.
