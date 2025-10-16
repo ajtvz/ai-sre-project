@@ -1,0 +1,212 @@
+[
+  {
+    "line": 165,
+    "length": 581,
+    "message": "2025-10-15T18:55:47.857673-07:00 oDoozy systemd-resolved[122]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test"
+  },
+  {
+    "line": 195,
+    "length": 245,
+    "message": "2025-10-15T18:55:47.857807-07:00 oDoozy systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport)."
+  },
+  {
+    "line": 199,
+    "length": 247,
+    "message": "2025-10-15T18:55:47.857817-07:00 oDoozy systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport)."
+  },
+  {
+    "line": 474,
+    "length": 57,
+    "message": "2025-10-15T18:55:47.858785-07:00 oDoozy kernel:     /init"
+  },
+  {
+    "line": 476,
+    "length": 58,
+    "message": "2025-10-15T18:55:47.858786-07:00 oDoozy kernel:     HOME=/"
+  },
+  {
+    "line": 604,
+    "length": 256,
+    "message": "2025-10-15T18:55:48.239810-07:00 oDoozy dbus-daemon[196]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.5' (uid=0 pid=205 comm=\"/usr/lib/snapd/snapd\" label=\"kernel\")"
+  },
+  {
+    "line": 749,
+    "length": 581,
+    "message": "2025-10-15T18:58:15.893391-07:00 oDoozy systemd-resolved[108]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test"
+  },
+  {
+    "line": 756,
+    "length": 245,
+    "message": "2025-10-15T18:58:15.893440-07:00 oDoozy systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport)."
+  },
+  {
+    "line": 757,
+    "length": 247,
+    "message": "2025-10-15T18:58:15.893448-07:00 oDoozy systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport)."
+  },
+  {
+    "line": 841,
+    "length": 256,
+    "message": "2025-10-15T18:58:16.098257-07:00 oDoozy dbus-daemon[155]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.5' (uid=0 pid=161 comm=\"/usr/lib/snapd/snapd\" label=\"kernel\")"
+  },
+  {
+    "line": 928,
+    "length": 268,
+    "message": "2025-10-15T18:59:01.519918-07:00 oDoozy dbus-daemon[155]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.10' (uid=0 pid=630 comm=\"/usr/bin/gdbus call --system --dest org.freedeskto\" label=\"kernel\")"
+  },
+  {
+    "line": 932,
+    "length": 238,
+    "message": "2025-10-15T18:59:01.611957-07:00 oDoozy dbus-daemon[155]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.12' (uid=0 pid=634 comm=\"/usr/libexec/packagekitd\" label=\"kernel\")"
+  },
+  {
+    "line": 1019,
+    "length": 582,
+    "message": "2025-10-15T19:02:46.474128-07:00 oDoozy systemd-resolved[2946]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test"
+  },
+  {
+    "line": 1051,
+    "length": 258,
+    "message": "2025-10-15T19:02:49.757931-07:00 oDoozy dbus-daemon[155]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.20' (uid=0 pid=3094 comm=\"/usr/lib/snapd/snapd\" label=\"kernel\")"
+  },
+  {
+    "line": 1102,
+    "length": 58,
+    "message": "2025-10-15T19:03:32.028955-07:00 oDoozy kernel: Exception:"
+  },
+  {
+    "line": 1104,
+    "length": 47,
+    "message": "2025-10-15T19:03:32.029080-07:00 oDoozy kernel:"
+  },
+  {
+    "line": 1254,
+    "length": 581,
+    "message": "2025-10-15T19:05:28.264203-07:00 oDoozy systemd-resolved[107]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test"
+  },
+  {
+    "line": 1283,
+    "length": 245,
+    "message": "2025-10-15T19:05:28.264243-07:00 oDoozy systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport)."
+  },
+  {
+    "line": 1288,
+    "length": 247,
+    "message": "2025-10-15T19:05:28.264251-07:00 oDoozy systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport)."
+  },
+  {
+    "line": 1606,
+    "length": 57,
+    "message": "2025-10-15T19:05:28.265221-07:00 oDoozy kernel:     /init"
+  },
+  {
+    "line": 1608,
+    "length": 58,
+    "message": "2025-10-15T19:05:28.265223-07:00 oDoozy kernel:     HOME=/"
+  },
+  {
+    "line": 1701,
+    "length": 256,
+    "message": "2025-10-15T19:05:28.450148-07:00 oDoozy dbus-daemon[177]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.5' (uid=0 pid=183 comm=\"/usr/lib/snapd/snapd\" label=\"kernel\")"
+  },
+  {
+    "line": 1792,
+    "length": 269,
+    "message": "2025-10-15T19:08:17.548465-07:00 oDoozy dbus-daemon[177]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.11' (uid=0 pid=1283 comm=\"/usr/bin/gdbus call --system --dest org.freedeskto\" label=\"kernel\")"
+  },
+  {
+    "line": 1796,
+    "length": 239,
+    "message": "2025-10-15T19:08:17.666434-07:00 oDoozy dbus-daemon[177]: [system] Activating via systemd: service name='org.freedesktop.PolicyKit1' unit='polkit.service' requested by ':1.13' (uid=0 pid=1287 comm=\"/usr/libexec/packagekitd\" label=\"kernel\")"
+  },
+  {
+    "line": 1818,
+    "length": 253,
+    "message": "2025-10-15T19:10:47.616800-07:00 oDoozy systemd[351]: launchpadlib-cache-clean.service - Clean up old files in the Launchpadlib cache was skipped because of an unmet condition check (ConditionPathExists=/home/dooz/.launchpadlib/api.launchpad.net/cache)."
+  },
+  {
+    "line": 2089,
+    "length": 581,
+    "message": "2025-10-15T19:36:10.839550-07:00 oDoozy systemd-resolved[104]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test"
+  },
+  {
+    "line": 2109,
+    "length": 245,
+    "message": "2025-10-15T19:36:10.839575-07:00 oDoozy systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport)."
+  },
+  {
+    "line": 2116,
+    "length": 247,
+    "message": "2025-10-15T19:36:10.839581-07:00 oDoozy systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport)."
+  },
+  {
+    "line": 2449,
+    "length": 57,
+    "message": "2025-10-15T19:36:10.840055-07:00 oDoozy kernel:     /init"
+  },
+  {
+    "line": 2451,
+    "length": 58,
+    "message": "2025-10-15T19:36:10.840056-07:00 oDoozy kernel:     HOME=/"
+  },
+  {
+    "line": 2539,
+    "length": 256,
+    "message": "2025-10-15T19:36:10.957086-07:00 oDoozy dbus-daemon[175]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.5' (uid=0 pid=181 comm=\"/usr/lib/snapd/snapd\" label=\"kernel\")"
+  },
+  {
+    "line": 2611,
+    "length": 58,
+    "message": "2025-10-15T19:36:27.451465-07:00 oDoozy kernel: Exception:"
+  },
+  {
+    "line": 2613,
+    "length": 47,
+    "message": "2025-10-15T19:36:27.451467-07:00 oDoozy kernel:"
+  },
+  {
+    "line": 2690,
+    "length": 581,
+    "message": "2025-10-15T19:37:17.615475-07:00 oDoozy systemd-resolved[145]: Negative trust anchors: home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 170.0.0.192.in-addr.arpa 171.0.0.192.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa ipv4only.arpa corp home internal intranet lan local private test"
+  },
+  {
+    "line": 2697,
+    "length": 245,
+    "message": "2025-10-15T19:37:17.615502-07:00 oDoozy systemd[1]: apport-autoreport.path - Process error reports when automatic reporting is enabled (file watch) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport)."
+  },
+  {
+    "line": 2698,
+    "length": 247,
+    "message": "2025-10-15T19:37:17.615505-07:00 oDoozy systemd[1]: apport-autoreport.timer - Process error reports when automatic reporting is enabled (timer based) was skipped because of an unmet condition check (ConditionPathExists=/var/lib/apport/autoreport)."
+  },
+  {
+    "line": 2768,
+    "length": 237,
+    "message": "2025-10-15T19:37:17.325818-07:00 oDoozy kernel: systemd-journald[39]: Failed to read journal file /var/log/journal/3b0a7b05943348c0ab78cae3fc942952/user-1000.journal for rotation, trying to move it out of the way: Device or resource busy"
+  },
+  {
+    "line": 2782,
+    "length": 256,
+    "message": "2025-10-15T19:37:17.368539-07:00 oDoozy dbus-daemon[156]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.5' (uid=0 pid=162 comm=\"/usr/lib/snapd/snapd\" label=\"kernel\")"
+  },
+  {
+    "line": 2921,
+    "length": 58,
+    "message": "2025-10-15T19:39:50.824633-07:00 oDoozy kernel: Exception:"
+  },
+  {
+    "line": 2923,
+    "length": 47,
+    "message": "2025-10-15T19:39:50.824693-07:00 oDoozy kernel:"
+  },
+  {
+    "line": 3013,
+    "length": 248,
+    "message": "2025-10-15T19:42:57.761013-07:00 oDoozy systemd[407]: launchpadlib-cache-clean.service - Clean up old files in the Launchpadlib cache was skipped because of an unmet condition check (ConditionPathExists=/root/.launchpadlib/api.launchpad.net/cache)."
+  },
+  {
+    "line": 3014,
+    "length": 253,
+    "message": "2025-10-15T19:42:57.761281-07:00 oDoozy systemd[318]: launchpadlib-cache-clean.service - Clean up old files in the Launchpadlib cache was skipped because of an unmet condition check (ConditionPathExists=/home/dooz/.launchpadlib/api.launchpad.net/cache)."
+  }
+]
