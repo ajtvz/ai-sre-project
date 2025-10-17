@@ -4,6 +4,12 @@
 
 AI-Powered Log Parser is a lightweight, containerized tool that reads and parses system logs from your host machine — specifically /var/log/syslog on Ubuntu — and outputs structured JSON for analysis, monitoring, and anomaly detection. It’s built for Site Reliability Engineers (SREs) who need portable, automated visibility into system behavior, and want to explore infrastructure-as-code, cloud deployment, and AI-assisted observability.
 
+🧠 What Makes This Tool AI-Powered
+
+This project uses machine learning to detect anomalies in system logs. Instead of relying on hardcoded rules, it applies an Isolation Forest model to learn patterns from the data and flag unusual behavior. That means it can catch subtle issues that traditional monitoring might miss — like a service behaving oddly but not crashing.
+This is a form of unsupervised learning, which is commonly used in SRE tools to surface silent failures, performance hiccups, or unexpected system behavior.
+
+
 ## 🔥 Why This Tool Matters for SREs
 
 As an SRE, your job is to ensure reliability, detect issues early, and automate observability. This tool helps you:
