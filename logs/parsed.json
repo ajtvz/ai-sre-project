@@ -21473,5 +21473,1150 @@
     "line": 4294,
     "length": 102,
     "message": "2025-10-15T21:33:02.760208-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4295,
+    "length": 131,
+    "message": "2025-10-15T21:33:31.595059-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4296,
+    "length": 117,
+    "message": "2025-10-15T21:33:32.801151-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4297,
+    "length": 121,
+    "message": "2025-10-15T21:33:32.801426-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4298,
+    "length": 295,
+    "message": "2025-10-15T21:33:32.802294-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4299,
+    "length": 124,
+    "message": "2025-10-15T21:33:32.802474-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4300,
+    "length": 142,
+    "message": "2025-10-15T21:33:32.802592-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4301,
+    "length": 102,
+    "message": "2025-10-15T21:34:01.048161-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4302,
+    "length": 131,
+    "message": "2025-10-15T21:34:29.878989-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4303,
+    "length": 117,
+    "message": "2025-10-15T21:34:31.086776-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4304,
+    "length": 121,
+    "message": "2025-10-15T21:34:31.086922-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4305,
+    "length": 295,
+    "message": "2025-10-15T21:34:31.087413-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4306,
+    "length": 124,
+    "message": "2025-10-15T21:34:31.087609-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4307,
+    "length": 142,
+    "message": "2025-10-15T21:34:31.087790-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4308,
+    "length": 102,
+    "message": "2025-10-15T21:34:59.366726-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4309,
+    "length": 131,
+    "message": "2025-10-15T21:35:28.214504-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4310,
+    "length": 117,
+    "message": "2025-10-15T21:35:29.443155-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4311,
+    "length": 121,
+    "message": "2025-10-15T21:35:29.443301-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4312,
+    "length": 295,
+    "message": "2025-10-15T21:35:29.443753-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4313,
+    "length": 124,
+    "message": "2025-10-15T21:35:29.443821-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4314,
+    "length": 142,
+    "message": "2025-10-15T21:35:29.443996-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4315,
+    "length": 102,
+    "message": "2025-10-15T21:35:57.686036-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4316,
+    "length": 131,
+    "message": "2025-10-15T21:36:26.490495-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4317,
+    "length": 117,
+    "message": "2025-10-15T21:36:27.803234-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4318,
+    "length": 121,
+    "message": "2025-10-15T21:36:27.803518-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4319,
+    "length": 295,
+    "message": "2025-10-15T21:36:27.804624-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4320,
+    "length": 124,
+    "message": "2025-10-15T21:36:27.804797-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4321,
+    "length": 142,
+    "message": "2025-10-15T21:36:27.805119-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4322,
+    "length": 102,
+    "message": "2025-10-15T21:36:55.955334-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4323,
+    "length": 132,
+    "message": "2025-10-15T21:36:55.657885-07:00 oDoozy kernel: message repeated 17 times: [ systemd-journald[39]: Time jumped backwards, rotating.]"
+  },
+  {
+    "line": 4324,
+    "length": 79,
+    "message": "2025-10-15T21:37:10.033382-07:00 oDoozy kernel: mini_init (244): drop_caches: 1"
+  },
+  {
+    "line": 4325,
+    "length": 102,
+    "message": "2025-10-15T21:37:24.760687-07:00 oDoozy kernel: systemd-journald[39]: Time jumped backwards, rotating."
+  },
+  {
+    "line": 4326,
+    "length": 131,
+    "message": "2025-10-15T21:37:24.759553-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4327,
+    "length": 117,
+    "message": "2025-10-15T21:37:26.069637-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4328,
+    "length": 121,
+    "message": "2025-10-15T21:37:26.069880-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4329,
+    "length": 295,
+    "message": "2025-10-15T21:37:26.070401-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4330,
+    "length": 124,
+    "message": "2025-10-15T21:37:26.070537-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4331,
+    "length": 142,
+    "message": "2025-10-15T21:37:26.070940-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4332,
+    "length": 102,
+    "message": "2025-10-15T21:37:54.228901-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4333,
+    "length": 131,
+    "message": "2025-10-15T21:38:23.037613-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4334,
+    "length": 117,
+    "message": "2025-10-15T21:38:24.411217-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4335,
+    "length": 121,
+    "message": "2025-10-15T21:38:24.411456-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4336,
+    "length": 295,
+    "message": "2025-10-15T21:38:24.412381-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4337,
+    "length": 124,
+    "message": "2025-10-15T21:38:24.412525-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4338,
+    "length": 142,
+    "message": "2025-10-15T21:38:24.412638-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4339,
+    "length": 102,
+    "message": "2025-10-15T21:38:52.514813-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4340,
+    "length": 131,
+    "message": "2025-10-15T21:39:21.366709-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4341,
+    "length": 117,
+    "message": "2025-10-15T21:39:22.652406-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4342,
+    "length": 121,
+    "message": "2025-10-15T21:39:22.652526-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4343,
+    "length": 295,
+    "message": "2025-10-15T21:39:22.652838-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4344,
+    "length": 124,
+    "message": "2025-10-15T21:39:22.652926-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4345,
+    "length": 142,
+    "message": "2025-10-15T21:39:22.652991-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4346,
+    "length": 102,
+    "message": "2025-10-15T21:39:50.766618-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4347,
+    "length": 131,
+    "message": "2025-10-15T21:40:19.655123-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4348,
+    "length": 117,
+    "message": "2025-10-15T21:40:20.958704-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4349,
+    "length": 121,
+    "message": "2025-10-15T21:40:20.959153-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4350,
+    "length": 295,
+    "message": "2025-10-15T21:40:20.960375-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4351,
+    "length": 124,
+    "message": "2025-10-15T21:40:20.960575-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4352,
+    "length": 142,
+    "message": "2025-10-15T21:40:20.960711-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4353,
+    "length": 102,
+    "message": "2025-10-15T21:40:49.087540-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4354,
+    "length": 131,
+    "message": "2025-10-15T21:41:17.922915-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4355,
+    "length": 117,
+    "message": "2025-10-15T21:41:19.226194-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4356,
+    "length": 121,
+    "message": "2025-10-15T21:41:19.226428-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4357,
+    "length": 295,
+    "message": "2025-10-15T21:41:19.226802-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4358,
+    "length": 124,
+    "message": "2025-10-15T21:41:19.226940-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4359,
+    "length": 142,
+    "message": "2025-10-15T21:41:19.227231-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4360,
+    "length": 102,
+    "message": "2025-10-15T21:41:47.388455-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4361,
+    "length": 131,
+    "message": "2025-10-15T21:42:16.192546-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4362,
+    "length": 117,
+    "message": "2025-10-15T21:42:17.546389-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4363,
+    "length": 121,
+    "message": "2025-10-15T21:42:17.546854-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4364,
+    "length": 295,
+    "message": "2025-10-15T21:42:17.547969-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4365,
+    "length": 124,
+    "message": "2025-10-15T21:42:17.548182-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4366,
+    "length": 142,
+    "message": "2025-10-15T21:42:17.548315-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4367,
+    "length": 102,
+    "message": "2025-10-15T21:42:45.659538-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4368,
+    "length": 131,
+    "message": "2025-10-15T21:43:14.461728-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4369,
+    "length": 117,
+    "message": "2025-10-15T21:43:15.796512-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4370,
+    "length": 121,
+    "message": "2025-10-15T21:43:15.796684-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4371,
+    "length": 295,
+    "message": "2025-10-15T21:43:15.796943-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4372,
+    "length": 124,
+    "message": "2025-10-15T21:43:15.797072-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4373,
+    "length": 142,
+    "message": "2025-10-15T21:43:15.797196-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4374,
+    "length": 102,
+    "message": "2025-10-15T21:43:43.918512-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4375,
+    "length": 131,
+    "message": "2025-10-15T21:44:12.678846-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4376,
+    "length": 117,
+    "message": "2025-10-15T21:44:14.089715-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4377,
+    "length": 121,
+    "message": "2025-10-15T21:44:14.089946-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4378,
+    "length": 295,
+    "message": "2025-10-15T21:44:14.090480-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4379,
+    "length": 124,
+    "message": "2025-10-15T21:44:14.090577-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4380,
+    "length": 142,
+    "message": "2025-10-15T21:44:14.090640-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4381,
+    "length": 102,
+    "message": "2025-10-15T21:44:42.158864-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4382,
+    "length": 131,
+    "message": "2025-10-15T21:45:10.955860-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4383,
+    "length": 117,
+    "message": "2025-10-15T21:45:12.316173-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4384,
+    "length": 121,
+    "message": "2025-10-15T21:45:12.316414-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4385,
+    "length": 295,
+    "message": "2025-10-15T21:45:12.321261-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4386,
+    "length": 124,
+    "message": "2025-10-15T21:45:12.321416-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4387,
+    "length": 142,
+    "message": "2025-10-15T21:45:12.321551-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4388,
+    "length": 102,
+    "message": "2025-10-15T21:45:40.374818-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4389,
+    "length": 131,
+    "message": "2025-10-15T21:46:09.167796-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4390,
+    "length": 117,
+    "message": "2025-10-15T21:46:10.595395-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4391,
+    "length": 121,
+    "message": "2025-10-15T21:46:10.595878-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4392,
+    "length": 295,
+    "message": "2025-10-15T21:46:10.602738-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4393,
+    "length": 124,
+    "message": "2025-10-15T21:46:10.602975-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4394,
+    "length": 142,
+    "message": "2025-10-15T21:46:10.603098-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4395,
+    "length": 102,
+    "message": "2025-10-15T21:46:38.613444-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4396,
+    "length": 131,
+    "message": "2025-10-15T21:47:07.419272-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4397,
+    "length": 117,
+    "message": "2025-10-15T21:47:08.878985-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4398,
+    "length": 121,
+    "message": "2025-10-15T21:47:08.879262-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4399,
+    "length": 295,
+    "message": "2025-10-15T21:47:08.883440-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4400,
+    "length": 124,
+    "message": "2025-10-15T21:47:08.883583-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4401,
+    "length": 142,
+    "message": "2025-10-15T21:47:08.883657-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4402,
+    "length": 102,
+    "message": "2025-10-15T21:47:36.858238-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4403,
+    "length": 131,
+    "message": "2025-10-15T21:48:05.684272-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4404,
+    "length": 117,
+    "message": "2025-10-15T21:48:07.181085-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4405,
+    "length": 121,
+    "message": "2025-10-15T21:48:07.181849-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4406,
+    "length": 295,
+    "message": "2025-10-15T21:48:07.186351-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4407,
+    "length": 124,
+    "message": "2025-10-15T21:48:07.186951-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4408,
+    "length": 142,
+    "message": "2025-10-15T21:48:07.187160-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4409,
+    "length": 102,
+    "message": "2025-10-15T21:48:35.133259-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4410,
+    "length": 131,
+    "message": "2025-10-15T21:49:03.948633-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4411,
+    "length": 117,
+    "message": "2025-10-15T21:49:05.481585-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4412,
+    "length": 121,
+    "message": "2025-10-15T21:49:05.481931-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4413,
+    "length": 295,
+    "message": "2025-10-15T21:49:05.482467-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4414,
+    "length": 124,
+    "message": "2025-10-15T21:49:05.482549-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4415,
+    "length": 142,
+    "message": "2025-10-15T21:49:05.482793-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4416,
+    "length": 132,
+    "message": "2025-10-15T21:49:03.950145-07:00 oDoozy kernel: message repeated 24 times: [ systemd-journald[39]: Time jumped backwards, rotating.]"
+  },
+  {
+    "line": 4417,
+    "length": 79,
+    "message": "2025-10-15T21:49:17.842401-07:00 oDoozy kernel: mini_init (244): drop_caches: 1"
+  },
+  {
+    "line": 4418,
+    "length": 102,
+    "message": "2025-10-15T21:49:33.375663-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4419,
+    "length": 102,
+    "message": "2025-10-15T21:49:33.037405-07:00 oDoozy kernel: systemd-journald[39]: Time jumped backwards, rotating."
+  },
+  {
+    "line": 4420,
+    "length": 131,
+    "message": "2025-10-15T21:50:02.189389-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4421,
+    "length": 117,
+    "message": "2025-10-15T21:50:03.709677-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4422,
+    "length": 121,
+    "message": "2025-10-15T21:50:03.710017-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4423,
+    "length": 295,
+    "message": "2025-10-15T21:50:03.710719-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4424,
+    "length": 124,
+    "message": "2025-10-15T21:50:03.710941-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4425,
+    "length": 142,
+    "message": "2025-10-15T21:50:03.711100-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4426,
+    "length": 102,
+    "message": "2025-10-15T21:50:31.588213-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4427,
+    "length": 131,
+    "message": "2025-10-15T21:51:00.379195-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4428,
+    "length": 117,
+    "message": "2025-10-15T21:51:01.988631-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4429,
+    "length": 121,
+    "message": "2025-10-15T21:51:01.988753-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4430,
+    "length": 295,
+    "message": "2025-10-15T21:51:01.989193-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4431,
+    "length": 124,
+    "message": "2025-10-15T21:51:01.989266-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4432,
+    "length": 142,
+    "message": "2025-10-15T21:51:01.989331-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4433,
+    "length": 102,
+    "message": "2025-10-15T21:51:29.819493-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4434,
+    "length": 131,
+    "message": "2025-10-15T21:51:58.648338-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4435,
+    "length": 117,
+    "message": "2025-10-15T21:52:00.271465-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4436,
+    "length": 121,
+    "message": "2025-10-15T21:52:00.271746-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4437,
+    "length": 295,
+    "message": "2025-10-15T21:52:00.272135-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4438,
+    "length": 124,
+    "message": "2025-10-15T21:52:00.272244-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4439,
+    "length": 142,
+    "message": "2025-10-15T21:52:00.272351-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4440,
+    "length": 102,
+    "message": "2025-10-15T21:52:28.047806-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4441,
+    "length": 131,
+    "message": "2025-10-15T21:52:56.889108-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4442,
+    "length": 117,
+    "message": "2025-10-15T21:52:58.521752-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4443,
+    "length": 121,
+    "message": "2025-10-15T21:52:58.521928-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4444,
+    "length": 295,
+    "message": "2025-10-15T21:52:58.522176-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4445,
+    "length": 124,
+    "message": "2025-10-15T21:52:58.522236-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4446,
+    "length": 142,
+    "message": "2025-10-15T21:52:58.522300-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4447,
+    "length": 102,
+    "message": "2025-10-15T21:53:26.277735-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4448,
+    "length": 131,
+    "message": "2025-10-15T21:53:55.046972-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4449,
+    "length": 117,
+    "message": "2025-10-15T21:53:56.773754-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4450,
+    "length": 121,
+    "message": "2025-10-15T21:53:56.774247-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4451,
+    "length": 295,
+    "message": "2025-10-15T21:53:56.774417-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4452,
+    "length": 124,
+    "message": "2025-10-15T21:53:56.774495-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4453,
+    "length": 142,
+    "message": "2025-10-15T21:53:56.774888-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4454,
+    "length": 102,
+    "message": "2025-10-15T21:54:24.468097-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4455,
+    "length": 131,
+    "message": "2025-10-15T21:54:53.302570-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4456,
+    "length": 117,
+    "message": "2025-10-15T21:54:55.046784-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4457,
+    "length": 121,
+    "message": "2025-10-15T21:54:55.047225-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4458,
+    "length": 295,
+    "message": "2025-10-15T21:54:55.047852-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4459,
+    "length": 124,
+    "message": "2025-10-15T21:54:55.048040-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4460,
+    "length": 142,
+    "message": "2025-10-15T21:54:55.048195-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4461,
+    "length": 102,
+    "message": "2025-10-15T21:55:22.675927-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4462,
+    "length": 131,
+    "message": "2025-10-15T21:55:51.474142-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4463,
+    "length": 117,
+    "message": "2025-10-15T21:55:53.304931-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4464,
+    "length": 121,
+    "message": "2025-10-15T21:55:53.305126-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4465,
+    "length": 295,
+    "message": "2025-10-15T21:55:53.306278-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4466,
+    "length": 124,
+    "message": "2025-10-15T21:55:53.306427-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4467,
+    "length": 142,
+    "message": "2025-10-15T21:55:53.306563-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4468,
+    "length": 102,
+    "message": "2025-10-15T21:56:20.887131-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4469,
+    "length": 131,
+    "message": "2025-10-15T21:56:49.669175-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4470,
+    "length": 117,
+    "message": "2025-10-15T21:56:51.586266-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4471,
+    "length": 121,
+    "message": "2025-10-15T21:56:51.586427-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4472,
+    "length": 295,
+    "message": "2025-10-15T21:56:51.586787-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4473,
+    "length": 124,
+    "message": "2025-10-15T21:56:51.586896-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4474,
+    "length": 142,
+    "message": "2025-10-15T21:56:51.586982-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4475,
+    "length": 102,
+    "message": "2025-10-15T21:57:19.091320-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4476,
+    "length": 131,
+    "message": "2025-10-15T21:57:47.921198-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4477,
+    "length": 117,
+    "message": "2025-10-15T21:57:49.829712-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4478,
+    "length": 121,
+    "message": "2025-10-15T21:57:49.829861-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4479,
+    "length": 295,
+    "message": "2025-10-15T21:57:49.830182-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4480,
+    "length": 124,
+    "message": "2025-10-15T21:57:49.830295-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4481,
+    "length": 142,
+    "message": "2025-10-15T21:57:49.830391-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4482,
+    "length": 102,
+    "message": "2025-10-15T21:58:17.317359-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4483,
+    "length": 131,
+    "message": "2025-10-15T21:58:46.098500-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4484,
+    "length": 117,
+    "message": "2025-10-15T21:58:48.089233-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4485,
+    "length": 121,
+    "message": "2025-10-15T21:58:48.089430-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4486,
+    "length": 295,
+    "message": "2025-10-15T21:58:48.090056-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4487,
+    "length": 124,
+    "message": "2025-10-15T21:58:48.090660-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4488,
+    "length": 142,
+    "message": "2025-10-15T21:58:48.090888-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4489,
+    "length": 102,
+    "message": "2025-10-15T21:59:15.525603-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4490,
+    "length": 131,
+    "message": "2025-10-15T21:59:44.338161-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4491,
+    "length": 117,
+    "message": "2025-10-15T21:59:46.288207-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4492,
+    "length": 121,
+    "message": "2025-10-15T21:59:46.288341-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4493,
+    "length": 295,
+    "message": "2025-10-15T21:59:46.289016-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4494,
+    "length": 124,
+    "message": "2025-10-15T21:59:46.289093-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4495,
+    "length": 142,
+    "message": "2025-10-15T21:59:46.289160-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4496,
+    "length": 102,
+    "message": "2025-10-15T22:00:13.767036-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4497,
+    "length": 131,
+    "message": "2025-10-15T22:00:42.531198-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4498,
+    "length": 117,
+    "message": "2025-10-15T22:00:44.553070-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4499,
+    "length": 121,
+    "message": "2025-10-15T22:00:44.553307-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4500,
+    "length": 295,
+    "message": "2025-10-15T22:00:44.554178-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4501,
+    "length": 124,
+    "message": "2025-10-15T22:00:44.554356-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4502,
+    "length": 142,
+    "message": "2025-10-15T22:00:44.554483-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4503,
+    "length": 102,
+    "message": "2025-10-15T22:01:11.976894-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4504,
+    "length": 131,
+    "message": "2025-10-15T22:01:40.803264-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4505,
+    "length": 117,
+    "message": "2025-10-15T22:01:42.679100-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4506,
+    "length": 121,
+    "message": "2025-10-15T22:01:42.679301-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4507,
+    "length": 295,
+    "message": "2025-10-15T22:01:42.679414-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4508,
+    "length": 124,
+    "message": "2025-10-15T22:01:42.679462-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4509,
+    "length": 142,
+    "message": "2025-10-15T22:01:42.679636-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4510,
+    "length": 102,
+    "message": "2025-10-15T22:02:10.146101-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4511,
+    "length": 131,
+    "message": "2025-10-15T22:02:38.930260-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4512,
+    "length": 117,
+    "message": "2025-10-15T22:02:40.990229-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4513,
+    "length": 121,
+    "message": "2025-10-15T22:02:40.990838-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4514,
+    "length": 295,
+    "message": "2025-10-15T22:02:40.991390-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4515,
+    "length": 124,
+    "message": "2025-10-15T22:02:40.991596-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4516,
+    "length": 142,
+    "message": "2025-10-15T22:02:40.992533-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
+  },
+  {
+    "line": 4517,
+    "length": 102,
+    "message": "2025-10-15T22:03:08.336546-07:00 oDoozy systemd-resolved[145]: Clock change detected. Flushing caches."
+  },
+  {
+    "line": 4518,
+    "length": 131,
+    "message": "2025-10-15T22:03:37.115454-07:00 oDoozy systemd-resolved[145]: message repeated 3 times: [ Clock change detected. Flushing caches.]"
+  },
+  {
+    "line": 4519,
+    "length": 117,
+    "message": "2025-10-15T22:03:39.268796-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent"
+  },
+  {
+    "line": 4520,
+    "length": 121,
+    "message": "2025-10-15T22:03:39.269111-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Connecting\""
+  },
+  {
+    "line": 4521,
+    "length": 295,
+    "message": "2025-10-15T22:03:39.269902-07:00 oDoozy wsl-pro-service[165]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file \"/mnt/c/Users/ajtvz/.ubuntupro/.address\": open /mnt/c/Users/ajtvz/.ubuntupro/.address: no such file or directory"
+  },
+  {
+    "line": 4522,
+    "length": 124,
+    "message": "2025-10-15T22:03:39.270084-07:00 oDoozy wsl-pro-service[165]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds"
+  },
+  {
+    "line": 4523,
+    "length": 142,
+    "message": "2025-10-15T22:03:39.270250-07:00 oDoozy wsl-pro-service[165]: #033[37mDEBUG#033[0m Updated systemd status to \"Not connected: waiting to retry\""
   }
 ]
