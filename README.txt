@@ -33,7 +33,6 @@ Planning to use:
 • Reads logs from host  
 • Parses each line into structured JSON with line number and message  
 • Flags anomalies using Isolation Forest based on line length 
-• Detects OS and displays log file path in output
 • Outputs:
   - `logs/parsed.json`
   - `logs/anomalies.json`  
